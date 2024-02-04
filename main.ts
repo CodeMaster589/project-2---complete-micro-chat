@@ -1,3 +1,6 @@
+radio.onReceivedNumber(function (receivedNumber) {
+    basic.showNumber(receivedNumber)
+})
 input.onButtonPressed(Button.A, function () {
     radio.sendString("Hi!")
     radio.sendString("My name is NAME, What’s your name?")
