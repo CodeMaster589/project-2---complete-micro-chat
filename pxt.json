@@ -1,5 +1,6 @@
 {
     "name": "Project 2 - Complete (Micro Chat)",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
